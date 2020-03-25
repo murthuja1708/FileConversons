@@ -1,3 +1,6 @@
 .json
 /.spyproject
 /__pycache__
+/ExcelFiles/*.xlsx
+/JsonFiles/*.json
+/csvFiles/*.csv
